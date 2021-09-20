@@ -1,0 +1,17 @@
+h2 {
+     font-style: italic; color: cadetblue;
+    }
+body{
+    background-color: beige; 
+   } 
+hr {
+    color: black;
+}
+li {
+    color: cornflowerblue; font-weight: bold
+}
+div  {
+        width: 50%;
+        margin: 0 auto;
+      }
+  
